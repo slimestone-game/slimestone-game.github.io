@@ -1,0 +1,67 @@
+Privacy Policy
+
+This application, “SlimeStone”, is developed by Araya.
+
+We value your privacy and are committed to protecting your information. This Privacy Policy explains how data is collected, used, and stored when you use our game.
+
+Information We Collect
+
+The game collects gameplay-related data to support account-based progress saving.
+This may include:
+- Game progress
+- Player achievements
+- In-game settings or unlocks
+
+This data is associated with the user’s account to allow progress recovery.
+
+We do not collect personally identifiable information such as name, address, phone number, or precise location.
+
+How We Use Your Information
+
+Collected data is used solely to:
+- Save and restore game progress
+- Allow users to recover their previous gameplay data after reinstalling the game
+- Improve game stability and user experience
+
+When a user reinstalls the game and signs in with the same account, previously saved gameplay data will be restored.
+
+Data Storage and Retention
+
+Gameplay data is securely stored on our servers or trusted third-party services.
+Data is retained as long as the account remains active or until the user requests deletion.
+
+If the game is uninstalled, the gameplay data may still be retained to support future restoration when using the same account.
+
+Data Sharing
+
+We do not sell or share user data with third parties for marketing purposes.
+Data may only be processed by services necessary for cloud saving or account authentication.
+
+Security
+
+We take reasonable measures to protect stored data from unauthorized access, loss, or misuse.
+Data transmission is protected using standard security practices.
+
+User Rights
+
+Users may request:
+- Access to their stored data
+- Deletion of their account data
+
+Requests can be made via the contact information below.
+
+Children’s Privacy
+
+This game is intended for general audiences.
+We do not knowingly collect personal information from children.
+
+Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+Any changes will be published on this page.
+
+Contact
+
+If you have any questions or requests regarding this Privacy Policy, please contact:
+
+Email: araya.exe@hotmail.com
